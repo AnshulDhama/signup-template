@@ -1,0 +1,109 @@
+ body {
+    background-image: url(https://www.shutterstock.com/image-photo/businessman-fingerprint-scan-biometric-authentication-260nw-759104368.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: max-content;
+    font-family: "Open Sans", arial, sans-serif;
+    text-align: center;
+    /* border: 2px solid #777 ; */
+    display: flex;
+    justify-content: end;
+}
+.full{
+    margin-top: 2%;
+    margin-right: 15%;
+    background-color: antiquewhite;
+    border: 0px solid #777;
+    padding: 0px 60px 0px 60px;
+}
+
+h3{
+    margin-bottom: 0px;
+    font-size: 24px;
+}
+.para1{
+    font-size: 14px;
+    margin-top: 2px;
+}
+
+.btn {
+
+    display: flex;
+    flex-direction: column;
+    margin: 0%;
+}
+
+.seprate {
+    display: flex;
+}
+
+#email {
+    height: 25px;
+    margin-bottom: 10%;
+    border-radius: 8px;
+    border: 1px solid lightgrey;
+
+}
+
+#password {
+    height: 25px;
+    margin-bottom: 10%;
+    border-radius: 8px;
+    border: 1px solid lightgrey;
+}
+
+#number {
+    height: 25px;
+    margin-bottom: 10%;
+    border-radius: 8px;
+    border: 1px solid lightgrey;
+}
+
+#username {
+    height: 25px;
+    margin-bottom: 10%;
+    border-radius: 8px;
+    border: 2px solid lightgray;
+}
+
+#signup {
+    height: 30px;
+    border-radius: 8px;
+    background-color: rgba(75, 75, 242, 0.884);
+    color: white;
+}
+
+#hr1 {
+    width: 35%;
+    margin-left: 0%;
+    margin-top: 10%;
+}
+
+#hr2 {
+    width: 35%;
+    margin-top: 10%;
+}
+p{
+    color: #777;    
+    padding: 0px 7px 0px 7px;
+}
+#img{
+    width: 20px;
+    
+}
+#fbimage{
+    width: 20px;
+}
+#google {
+    height: 30px;
+    margin-bottom: 10%;
+    border-radius: 8px;
+    background-color: white;
+}
+#fb {
+    height: 30px;
+    margin-bottom: 10%;
+    border-radius: 8px;
+    background-color: rgba(75, 75, 242, 0.884);
+    color: white;
+} 
